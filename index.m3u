@@ -1,11 +1,7 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png", BTV [BD]
-http://tv.gadgetvaly.com:8880/kazimaruf.jp/bdiptv365/39
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://imgur.com/wGU07eP.png" group-title="LIVE SPORTS",T SPORTS HD
-http://asdd.cc:7444/live/1/1/2143.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/wGU07eP.png" group-title="LIVE SPORTS",T SPORTS HD
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 
@@ -144,10 +140,8 @@ https://live.durbinlive.com/hls/movies-now.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/iA4v1yN.png",MN+ HD
 https://live.durbinlive.com/hls/mn+.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", ZoOM
-http://asdd.cc:7444/live/1/1/2159.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ILW11oz.png" group-title="Music",B4U Music
-http://asdd.cc:7444/live/1/1/2147.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
 http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png", group-title="Music", GAAN BANGLA
